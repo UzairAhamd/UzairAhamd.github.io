@@ -25,14 +25,15 @@ var waypoint = new Waypoint({
     var p = document.querySelectorAll('.progress-bar');
     p[0].setAttribute("style", "width:85%;transition:1s all;");
     p[1].setAttribute("style", "width:80%;transition:1.5s all;");
-    p[2].setAttribute("style", "width:87%;transition:1.7s all;");
-    p[3].setAttribute("style", "width:75%;transition:2s all;");
-    p[4].setAttribute("style", "width:75%;transition:2.3s all;");
-    p[5].setAttribute("style", "width:75%;transition:2.5s all;");
-    p[6].setAttribute("style", "width:70%;transition:2.7s all;");
-    p[7].setAttribute("style", "width:80%;transition:2.8s all;");
-    p[8].setAttribute("style", "width:85%;transition:2.9s all;");
-    p[9].setAttribute("style", "width:80%;transition:3.0s all;");
+    p[2].setAttribute("style", "width:80%;transition:1.5s all;");
+    p[3].setAttribute("style", "width:87%;transition:1.7s all;");
+    p[4].setAttribute("style", "width:75%;transition:2s all;");
+    p[5].setAttribute("style", "width:75%;transition:2.3s all;");
+    p[6].setAttribute("style", "width:75%;transition:2.5s all;");
+    p[7].setAttribute("style", "width:70%;transition:2.7s all;");
+    p[8].setAttribute("style", "width:80%;transition:2.8s all;");
+    p[9].setAttribute("style", "width:85%;transition:2.9s all;");
+    p[10].setAttribute("style", "width:80%;transition:3.0s all;");
   },
    offset: '90%'
 });

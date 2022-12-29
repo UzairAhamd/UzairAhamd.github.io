@@ -1,1 +1,2 @@
-Hi, I'm Uzair Ahmad. I've done my bachelor in year 2021 in Mechatronics Engineering. I'm a passionate Net Developer with expertise in Client Side and Server side technologies. My future goal involves to be a pro Solution Architect out there by learning and growing with tech community.
+Hi, I'm Uzair Ahmad. I've done my bachelor's in the year 2021 in Mechatronics Engineering. I'm a passionate Net Developer with expertise in Client Side and Server side technologies. My future goal involves being a pro Solution Architect out there by learning and growing with the tech community.
+I'm applying for an entry-level .Net Developer Role. Thanks

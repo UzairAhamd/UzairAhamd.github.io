@@ -268,10 +268,15 @@ header {
   text-align: center;
 }
 
-.about li a:hover {
-  color: darkviolet;
+.fa-github:hover {
+  color: darkviolet !important;;
 }
-
+.fa-twitter:hover {
+  color: darkviolet !important;;
+}
+.fa-linkedin:hover {
+  color: darkviolet !important;;
+}
 /* Experience ---------------------------------------------------------*/
 .experience .progress {
   height: 10px;

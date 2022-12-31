@@ -193,7 +193,7 @@ nav.stickyadd .navbar-brand {
   transition: 0.5s all;
 }
 nav.stickyadd .navbar-nav .nav-link {
-  color: #fff !important;
+  color: #000 !important;
 }
 .navbar .hamburger {
   color: #000;
